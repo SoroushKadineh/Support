@@ -1,4 +1,4 @@
-**Description**
+**SKchess App Description**
 
 The features are as follows:
 
@@ -18,6 +18,6 @@ Themes:
 Light and Dark themes are supported.
 
 
-**Contact us**
+**SKchess App Contact Info**
 
 If you have any questions or concerns, please contact us via email at [skchesshelp@gmail.com](skchesshelp@gmail.com).
