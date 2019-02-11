@@ -1,4 +1,5 @@
 **Description**
+
 The features are as follows:
 
 Analyze:
@@ -7,7 +8,7 @@ Analyze positions using Stockfish 9 chess engine.
 Imports:
 Users can import a chessboard from the following formats and start analyzing: image (using camera or photo library), FEN notation, or able to make your own custom position!
 
-- How to import a chessboard using an image:
+How to import a chessboard using an image:
 Users can either take a photo or from the the photo library provide an image that has a recognizable chessboard in it. Then users are prompted to confirm whether the detected chessboard is accurate or not. If the chessboard is not detected correctly, then the users can identify 4 corners of the chessboard manually. If the chessboard is detected/cropped accurately, then users need to provide information about side to move and the perspective of the chessboard. After that users are prompted to confirm the detected chess pieces.
 
 Chess Clocks:
